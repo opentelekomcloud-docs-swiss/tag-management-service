@@ -7,6 +7,7 @@ Tag Management Service (TMS) is a visualized service for fast, unified tag manag
    :class: container-sbv
 
    .. service_card::
+      :environment: internal
       :service_type: tms
       :umn: This document describes basic concepts, functions, key terms, and FAQs of the Tag Management Service(TMS) and provides guidances for quickly adding tags and Creating Predefined Tags
       :api-ref: This document describes application programming interfaces (APIs) of Tag Management Service(TMS) and provides API parameter description and example values.
